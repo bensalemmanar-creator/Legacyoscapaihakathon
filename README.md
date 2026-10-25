@@ -1,11 +1,31 @@
+# LegacyOS
 
-  # Create new component (Copy)
+**LegacyOS** is a website designed in **Figma** during a **hackathon**, as a proposed solution to **private equity problems in Tunisia**.
 
-  This is a code bundle for Create new component (Copy). The original project is available at https://www.figma.com/design/s60CnXQ7UZE9pRXUhwapyy/Create-new-component--Copy-.
+## About the project
 
-  ## Running the code
+- **Context:** built during a hackathon, under time constraints
+- **Challenge:** private equity problems in Tunisia
+- **Deliverable:** website created with Figma
+- **Team:** a team of 3, so this was a collaborative project
 
-  Run `npm i` to install the dependencies.
+## Team
 
-  Run `npm run dev` to start the development server.
-  
+Developed collaboratively by a team of 3:
+
+- Manar Ben Salem
+- _teammate name_
+- _teammate name_
+
+## Tools
+
+Figma
+
+## Running the website locally
+
+The repository contains the code of the website (Vite project).
+
+```bash
+pnpm install   # or: npm install
+pnpm dev       # or: npm run dev
+```
