@@ -14,13 +14,13 @@
 Developed collaboratively by a team of 3:
 
 - Manar Ben Salem
-- _teammate name_
-- _teammate name_
+- Anas Esaadi
+- Mostfa Maiz
 
 ## Tools
 
 Figma
-
+https://www.figma.com/make/jl7b0auWGi1zvumJ90Ywli/Create-new-component?t=dwez6uMSB6JaO0K5-1 
 ## Running the website locally
 
 The repository contains the code of the website (Vite project).
